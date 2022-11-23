@@ -12,16 +12,11 @@
 
 
 <h3 align="left"><ins>A little bit about me ...</ins></h3>
-
 <h6>🌱 I’m currently honing my skills in **HTML, CSS, Bootstrap, JS, MVC Pattern, Node.js, Vue, C#, and MySQL ..With more to come** </h6>
-
-- 🏋🏻‍♀️ I enjoy lifting heavy objects in my local CrossFit gym
-
-- 🥾 I am an avid hiker and backpacker working towards thru-hiking the PCT
-
-- 💆🏻‍♀️ When I'm not outside, you can find me relaxing with a good book, watching anime, or playing video-games 
-
-- 📫 How to reach me **savtemple@gmail.com**
+<h6>🏋🏻‍♀️ I enjoy lifting heavy objects in my local CrossFit gym </h6>
+<h6>🥾 I am an avid hiker and backpacker working towards thru-hiking the PCT</h6>
+<h6>💆🏻‍♀️ When I'm not outside, you can find me relaxing with a good book, watching anime, or playing video-games</h6>
+<h6>📫 How to reach me **savtemple@gmail.com**</h6>
 
 <h3 align="left"><ins>Connect with me:</ins></h3>
 <p align="left">
