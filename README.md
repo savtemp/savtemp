@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, I'm @savtemp</h1>
 
-<h4 align="center">Thanks for stopping by my github page! I am a Teaching Assistant and Full-Stack Software Developer at Boise CodeWorks. After completing a dual major in Biology and Psychology from Boise State University, I made the exciting decision to explore my passion for software development. I've always chased challenges, and pushed myself to go above and beyond my goals, and I love programming for that reason - every day I'm awarded the opportunity to tackle new concepts, problem solve, and create projects that I am passionate about!</h4>
+<p align="center">Thanks for stopping by my github page! I am a Teaching Assistant and Full-Stack Software Developer at Boise CodeWorks. After completing a dual major in Biology and Psychology from Boise State University, I made the exciting decision to explore my passion for software development. I've always chased challenges, and pushed myself to go above and beyond my goals, and I love programming for that reason - every day I'm awarded the opportunity to tackle new concepts, problem solve, and create projects that I am passionate about!</p>
 
 
 
@@ -12,11 +12,11 @@
 
 
 <h3 align="left"><ins>A little bit about me ...</ins></h3>
-<h6>🌱 I’m currently honing my skills in **HTML, CSS, Bootstrap, JS, MVC Pattern, Node.js, Vue, C#, and MySQL ..With more to come** </h6>
-<h6>🏋🏻‍♀️ I enjoy lifting heavy objects in my local CrossFit gym </h6>
-<h6>🥾 I am an avid hiker and backpacker working towards thru-hiking the PCT</h6>
-<h6>💆🏻‍♀️ When I'm not outside, you can find me relaxing with a good book, watching anime, or playing video-games</h6>
-<h6>📫 How to reach me **savtemple@gmail.com**</h6>
+<p>🌱 I’m currently honing my skills in **HTML, CSS, Bootstrap, JS, MVC Pattern, Node.js, Vue, C#, and MySQL ..With more to come** </p>
+<p>🏋🏻‍♀️ I enjoy lifting heavy objects in my local CrossFit gym </p>
+<p>🥾 I am an avid hiker and backpacker working towards thru-hiking the PCT</p>
+<p>💆🏻‍♀️ When I'm not outside, you can find me relaxing with a good book, watching anime, or playing video-games</p>
+<p>📫 How to reach me **savtemple@gmail.com**</p>
 
 <h3 align="left"><ins>Connect with me:</ins></h3>
 <p align="left">
