@@ -18,7 +18,9 @@ A little bit about me...
 - LinkedIn: https://www.linkedin.com/in/savtemp
 - Gmail: savtemple@gmail.com
 
-CODING? THIS IS WHAT IM LISTENING TO RIGHT NOW:
+
+
+Coding? This is what I'm listening to right now:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1259910573&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&bar_color=ea76f9&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1259910573&redirect=true)
 
