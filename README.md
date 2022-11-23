@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @savtemp</h1>
-<h2 align="center">Thanks for stopping by my github page! I am a Teaching Assistant and Full-Stack Software Developer at Boise CodeWorks. After completing a dual major in Biology and Psychology from Boise State University, I made the exciting decision to explore my passion for software development. I've always chased challenges, and pushed myself to go above and beyond my goals, and I love programming for that reason - every day I'm awarded the opportunity to tackle new concepts, problem solve, and create projects that I am passionate about!</h2>
+<h4 align="center">Thanks for stopping by my github page! I am a Teaching Assistant and Full-Stack Software Developer at Boise CodeWorks. After completing a dual major in Biology and Psychology from Boise State University, I made the exciting decision to explore my passion for software development. I've always chased challenges, and pushed myself to go above and beyond my goals, and I love programming for that reason - every day I'm awarded the opportunity to tackle new concepts, problem solve, and create projects that I am passionate about!</h4>
 
 
 
