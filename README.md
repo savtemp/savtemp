@@ -12,7 +12,8 @@
 
 
 <h3 align="left"><ins>A little bit about me ...</ins></h3>
-- 🌱 I’m currently honing my skills in **HTML, CSS, Bootstrap, JS, MVC Pattern, Node.js, Vue, C#, and MySQL ..With more to come**
+
+<h6>🌱 I’m currently honing my skills in **HTML, CSS, Bootstrap, JS, MVC Pattern, Node.js, Vue, C#, and MySQL ..With more to come** </h6>
 
 - 🏋🏻‍♀️ I enjoy lifting heavy objects in my local CrossFit gym
 
