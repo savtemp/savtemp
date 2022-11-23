@@ -2,8 +2,9 @@
 <h4 align="center">Thanks for stopping by my github page! I am a Teaching Assistant and Full-Stack Software Developer at Boise CodeWorks. After completing a dual major in Biology and Psychology from Boise State University, I made the exciting decision to explore my passion for software development. I've always chased challenges, and pushed myself to go above and beyond my goals, and I love programming for that reason - every day I'm awarded the opportunity to tackle new concepts, problem solve, and create projects that I am passionate about!</h4>
 
 
+<u>Coding? This is what I'm listening to right now:<u>
 
-<h3 align="left"><u>Coding? This is what I'm listening to right now:<u></h3>
+<h3 align="left"></h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1259910573&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&bar_color=ea76f9&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1259910573&redirect=true)
 
