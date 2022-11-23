@@ -13,9 +13,13 @@
 
 <h3 align="left"><ins>A little bit about me ...</ins></h3>
 - 🌱 I’m currently honing my skills in **HTML, CSS, Bootstrap, JS, MVC Pattern, Node.js, Vue, C#, and MySQL ..With more to come**
+
 - 🏋🏻‍♀️ I enjoy lifting heavy objects in my local CrossFit gym
+
 - 🥾 I am an avid hiker and backpacker working towards thru-hiking the PCT
+
 - 💆🏻‍♀️ When I'm not outside, you can find me relaxing with a good book, watching anime, or playing video-games 
+
 - 📫 How to reach me **savtemple@gmail.com**
 
 <h3 align="left"><ins>Connect with me:</ins></h3>
