@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=savtemp&show_icons=true&locale=en&layout=compact" alt="savtemp" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=savtemp&show_icons=true&locale=en" alt="savtemp" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=savtemp&show_icons=true&locale=en" alt="savtemp" /></p>
 
 
 
