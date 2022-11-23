@@ -3,8 +3,8 @@
 
 
 
-
-<h3 align="left" style="color:red">Coding? This is what I'm listening to right now:</h3>
+<ins>work?</ins>
+<h3 align="left">Coding? This is what I'm listening to right now:</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1259910573&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&bar_color=ea76f9&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1259910573&redirect=true)
 
