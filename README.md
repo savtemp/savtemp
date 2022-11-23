@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm @savtemp</h1>
 <h3 align="center">Thanks for stopping by my github page! I am a Teaching Assistant and Full-Stack Software Developer at Boise CodeWorks. After completing a dual major in Biology and Psychology from Boise State University, I made the exciting decision to explore my passion for software development. I've always chased challenges, and pushed myself to go above and beyond my goals, and I love programming for that reason - every day I'm awarded the opportunity to tackle new concepts, problem solve, and create projects that I am passionate about!</h3>
 
-Coding? This is what I'm listening to right now:
+<h3 align="left">Coding? This is what I'm listening to right now:</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1259910573&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&bar_color=ea76f9&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1259910573&redirect=true)
 
+
+
+<h3 align="left">A little bit about me ...</h3>
 - 🌱 I’m currently honing my skills in **HTML, CSS, Bootstrap, JS, MVC Pattern, Node.js, Vue, C#, and MySQL ..With more to come**
-
-
-A little bit about me...
-
-- 💞️ I volunteer with a number of advocacy organizations. My favorite role is being a Big Sister mentor with Big Brothers, Big Sisters
 - 🏋🏻‍♀️ I enjoy lifting heavy objects in my local CrossFit gym
 - 🥾 I am an avid hiker and backpacker working towards thru-hiking the PCT
 - 💆🏻‍♀️ When I'm not outside, you can find me relaxing with a good book, watching anime, or playing video-games 
@@ -26,7 +24,7 @@ A little bit about me...
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=savtemp&show_icons=true&locale=en&layout=compact" alt="savtemp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=savtemp&show_icons=true&locale=en" alt="savtemp" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=savtemp&show_icons=true&locale=en" alt="savtemp" /></p>
 
 
 
